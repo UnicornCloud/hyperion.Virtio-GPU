@@ -1,6 +1,7 @@
 
 # overview
-https://www.kraxel.org/blog/2021/05/virtio-gpu-qemu-graphics-update/
+- https://www.kraxel.org/blog/2021/05/virtio-gpu-qemu-graphics-update/
+- https://www.studiopixl.com/2017-05-13/linux-graphic-stack-an-overview
 
 # wiki
 https://wiki.archlinux.org/title/QEMU/Guest_graphics_acceleration
